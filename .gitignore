@@ -1,0 +1,22 @@
+# Dependencies
+nodeapp/node_modules/
+reactapp/node_modules/
+
+# Environment files
+.env
+.env.*
+!.env.example
+nodeapp/.env
+reactapp/.env
+
+# Build files
+reactapp/build/
+reactapp/dist/
+
+# Logs
+npm-debug.log*
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
