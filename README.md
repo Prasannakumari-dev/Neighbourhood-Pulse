@@ -1,5 +1,5 @@
 # Neighbourhood Pulse
-A Full-Stack Neighbourhood Event and Community Reporting Platform
+### A Full-Stack Neighbourhood Event and Community Reporting Platform
 
 Neighbourhood Pulse is a full-stack web application designed to support community engagement through neighbourhood event management, community issue reporting, and interactive location-based visualization. The platform provides a centralized interface for organizing local activities and exploring reported community issues.
 
